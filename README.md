@@ -4,8 +4,8 @@ Hi! I'm Conrad, I like to spend countless hours setting up automation for jobs w
 
 <div>
 	<p align="center">
-    <img src="https://github.com/ConradWeiser/Github-Statistics/blob/e3272c3576e67fafcc4920fabbfd9152b28c18b9/generated/overview.svg">
-		<img src="https://github.com/ConradWeiser/Github-Statistics/blob/e3272c3576e67fafcc4920fabbfd9152b28c18b9/generated/languages.svg">
+    <img src="https://raw.githubusercontent.com/ConradWeiser/Github-Statistics/master/generated/overview.svg">
+		<img src="https://raw.githubusercontent.com/ConradWeiser/Github-Statistics/master/generated/languages.svg">
 	</p>
 </div>
 
